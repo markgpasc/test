@@ -4,4 +4,6 @@
 void main()
 {
 	printf("Aloha world!\n");
+	printf("practiced a commit!\n");
+
 }
